@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountCustomerMessage" xml:space="preserve">
+    <value>Yes, DHL ProView is a web-based shipment visibility and event notification tool specifically designed to improve tracking for DHL Express account holders. Please refer to your local DHL website to find out if DHL ProView is available in your country. While not available globally right now, it will be available in all countries in the near future.</value>
+  </data>
+  <data name="ContactDhlMessage" xml:space="preserve">
+    <value>This usually occurs if the information we have is insufficient to track the shipment for you. The address may be incorrect and we require clarification or some additional information may be required. The matter can be resolved very quickly by contacting customer service : http://www.dhl.com/en/contact_center/contact_express.html</value>
+  </data>
+  <data name="CustomStatusMessage" xml:space="preserve">
+    <value>This status provides an indication of the clearance processing from the destination. Please click in to the Further details (+) to open and see additional information available. This checkpoint allows you to see very early if there is additional information required by customs for clearance.</value>
+  </data>
+  <data name="DamageClaimMessage" xml:space="preserve">
+    <value>If your shipment failed to arrive, it is important that you contact customer service with an accurate description of the goods and their packaging as soon as possible. Our “found shipment centers” hold on to items that were not properly addressed or that became detached from their packaging. It is possible that they will be able to reunite you with your shipment. If this fails, please contact customer servicecontact customer service to file a report.
+Please note that damage to goods in transit is frequently the result of inadequate packaging.</value>
+  </data>
+  <data name="DifferentTownMessage" xml:space="preserve">
+    <value>The Pickup and Delivery destinations shown on the DHL Express tracking results are based on the destination of the Service Station location providing that pickup and delivery. Please be assured that your shipment is being delivered to the destination provided by you when you completed the waybill for your shipment(s).</value>
+  </data>
+  <data name="ExportAdviseMessage" xml:space="preserve">
+    <value>Absolutely! DHL has unrivalled experience of international shipping. Please click this link http://www.dhl.com/en/contact_center/contact_express.html to contact DHL sales to discuss your needs.</value>
+  </data>
+  <data name="FurtherDetailsMessage" xml:space="preserve">
+    <value>If you click on the (+) an additional level of detail on the status of your shipment will be visible. This further detail can be as simple as confirming the clearance processing is completed, but can also be a more detailed explanation on why the shipment is held in customs and/or additional information required for clearance processing.</value>
+  </data>
+  <data name="ImportDutyMessage" xml:space="preserve">
+    <value>You will have to discuss this with the vendor. It depends on the type of commodity you are purchasing, the value of the goods, how the vendor labels them for customs purposes and what country you are importing them into. If customs imposes a charge DHL will pay this in the first instance, however you are advised to pay this, whether or not you accept delivery of the goods.</value>
+  </data>
+  <data name="IntentNotFoundMessage" xml:space="preserve">
+    <value>Sorry, I do not understand your request.</value>
+  </data>
+  <data name="InvalidWaybillMessage" xml:space="preserve">
+    <value>There could be various reasons. The DHL Express Waybill for Time Definite shipments is a 10 digit numeric number (e.g. 1234567890, 2345678901), so please recheck the number and try again.</value>
+  </data>
+  <data name="LateDeliveryMessage" xml:space="preserve">
+    <value>In the unlikely event that a Time Definite Delivery misses its scheduled delivery through our fault, you should click http://www.dhl.com/en/contact_center/contact_express.html to contact your local customer service department who will arrange a credit for you.</value>
+  </data>
+  <data name="NotificationsSignupMessage" xml:space="preserve">
+    <value>For shipments that have not yet been delivered, you can sign up for email or SMS/Text message notifications to receive delivery status updates. This saves you time – you don’t have to go online again to track your shipment.</value>
+  </data>
+  <data name="NotIntendedMessage" xml:space="preserve">
+    <value>DHL periodically recycles shipment waybill numbers for operational reasons. Occasionally this results in information being in our systems at the same time for two shipments travelling under the same waybill number. DHL is working hard to eliminate these occurrences however, in the meantime, please be assured that while this information may be confusing, your physical shipment will be heading to its correct destination and be receiving the same careful attention as every other shipment in our network.</value>
+  </data>
+  <data name="NoTrackingNumberMessage" xml:space="preserve">
+    <value>Yes, under certain conditions. We strongly advise you to make a record of your tracking number however, if you have the shipper's reference number, you can use our online Shipper’s Reference Tracking service.</value>
+  </data>
+  <data name="PackageSizeMessage" xml:space="preserve">
+    <value>Due to the size of the door openings on our vans and planes, we ask that a shipment does not exceed 120 cm in dimension. We will be pleased to advise and arrange carriage of any larger items for you. In addition, for the safety of our couriers, we require notification of shipments over 50kg in weight.</value>
+  </data>
+  <data name="PaymentMethodsMessage" xml:space="preserve">
+    <value>A DHL account is highly recommended if you ship frequently. This offers you negotiated price savings and the opportunity to pay by monthly invoice. Less frequent shippers can pay by cash or credit card.</value>
+  </data>
+  <data name="ShipmentArrivalMessage" xml:space="preserve">
+    <value>The DHL Tracking page: http://www.dhl.com/en/express/tracking.html can provide up-to-date information on your shipment location.</value>
+  </data>
+  <data name="ShippingCostsMessage" xml:space="preserve">
+    <value>Please be aware that when purchasing goods via internet sites, some or all of these goods may not originate in your home country. When goods are not sent domestically or within a single customs union, you are liable to pay any inbound duties and taxes which your local Customs authority deems appropriate. Duties and taxes are most typically not included in the price of the goods you purchase online. 
+
+DHL pays the Customs authority on your behalf any duties and taxes that are due on the goods, when they enter the country. This simple process ensures that our courier can deliver your goods in shortest possible transit time. Please note that we only release the goods to you upon the full repayment of any duties and taxes that were paid on your behalf.</value>
+  </data>
+</root>

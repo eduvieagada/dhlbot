@@ -1,0 +1,42 @@
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Bot Application.dll.config
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Bot Application.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Bot Application.pdb
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Autofac.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Chronic.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Bot.Builder.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Bot.Connector.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Newtonsoft.Json.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.Net.Http.Formatting.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.Web.Http.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.Web.Http.WebHost.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Autofac.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Bot.Builder.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.Bot.Connector.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\Newtonsoft.Json.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.Net.Http.Formatting.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.Web.Http.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\System.Web.Http.WebHost.xml
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\obj\Debug\DhlBot.csprojResolveAssemblyReference.cache
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\obj\Debug\Bot Application.dll
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\obj\Debug\Bot Application.pdb
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\obj\Debug\DhlBot.Properties.Resources.resources
+c:\users\eduvie.agada\documents\visual studio 2017\Projects\DhlBot\DhlBot\obj\Debug\DhlBot.csproj.GenerateResource.Cache
