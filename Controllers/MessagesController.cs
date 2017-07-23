@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
+using System;
 
 namespace DhlBot
 {
@@ -40,11 +41,18 @@ namespace DhlBot
                 // Handle conversation state changes, like members being added and removed
                 // Use Activity.MembersAdded and Activity.MembersRemoved and Activity.Action for info
                 // Not available in all channels
+                
+
             }
             else if (message.Type == ActivityTypes.ContactRelationUpdate)
             {
                 // Handle add/remove from contact lists
                 // Activity.From + Activity.Action represent what happened
+                var connector = new ConnectorClient(new Uri(message.ServiceUrl));
+                var reply = message.CreateReply("Hello I am the DHL assistant. Ask me anything");
+                connector.Conversations.ReplyToActivity(reply);
+                
+
             }
             else if (message.Type == ActivityTypes.Typing)
             {
